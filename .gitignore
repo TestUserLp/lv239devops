@@ -1,3 +1,5 @@
+# JAVA Profile
+
 *.class
 
 # Mobile Tools for Java (J2ME)
@@ -54,6 +56,20 @@ hs_err_pid*
 # Ignore IntelliJ IDEA Config Files
 *.stackdump
 
+
+
+# WEB UI Profile
+
+# bower
+/bower_components/
+
+# npm
+/node_modules/
+
+
+
+# COMMON Profile
+
 # Ignore Picture
 *.bmp
 *.jpg
@@ -72,9 +88,3 @@ hs_err_pid*
 *.doc
 *.docx
 *.pdf
-
-# bower
-/bower_components/
-
-# npm
-/node_modules/
