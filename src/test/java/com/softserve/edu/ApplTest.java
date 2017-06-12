@@ -2,7 +2,7 @@ package com.softserve.edu;
 
 import org.testng.annotations.Test;
 
-public class AppTest 
+public class ApplTest 
 {
 	@Test
     public void testApp()
